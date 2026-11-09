@@ -1,0 +1,6 @@
+{
+  "name": "Grozny Syrve Cloud ERP & AI POS",
+  "description": "Integrated Restaurant ERP, Smart POS, Financial P&L, HR & Payroll, Live CCTV Hub, and Voice AI Commander for Grozny Restaurant L.L.C (Dubai).",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
